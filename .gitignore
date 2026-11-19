@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local input data (do not commit raw datasets by default)
+data/*
+!data/README.md
+!data/.gitkeep
+*.csv
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.gpkg
+*.geojson
+*.zip
+
+# Generated outputs
+outputs/*
+!outputs/.gitkeep
+*.png
+*.jpg
+*.jpeg
+*.html
+*.pdf
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
