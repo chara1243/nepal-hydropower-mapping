@@ -1,0 +1,11 @@
+pandas
+geopandas
+matplotlib
+numpy
+shapely
+contextily
+mapclassify
+adjustText
+matplotlib-scalebar
+folium
+jupyter

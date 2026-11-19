@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Nepal Hydropower Mapping"
+version: 1.0.0
+date-released: 2026-11-19
+authors:Bhattarai, C. (2026)
+  - family-names: "Bhattarai"
+    given-names: "Charan"
+    type: software
